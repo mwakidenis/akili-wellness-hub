@@ -150,7 +150,7 @@ Happy coding 💜
 ---
 
 ## 🧑‍💻 Maintainers
-Built by AkiliSpa Team | Maintained by Mwaki Denis & Team  👨‍💻👩‍💻
+Built by **AkiliSpa Team** | Maintained by **Mwaki Denis** & **Team** 👨‍💻👩‍💻
 
 ### 📄 License
 Distributed under the MIT License. See LICENSE for more information.
