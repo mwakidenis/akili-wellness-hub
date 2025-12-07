@@ -12,7 +12,6 @@
   <a href="https://github.com/mwakidenis/akili-wellness-hub/network/members">
     <img alt="GitHub Forks" src="https://img.shields.io/github/forks/mwakidenis/akili-wellness-hub?style=flat-square">
   </a>
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
 
 </p>
 
